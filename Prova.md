@@ -8,4 +8,9 @@ int main()
   MLG main
   return where u at!!!!!!!!!!!!;
 };
+
+If (Vegetta777--> IniciaVideo)
+  cout<<"Hey muy buenas a todos, guapisimos, aqui Vegetta777, en un gameplay directo de Planeta Vegetta!"<<endl;
+  
+  sistempause retun cero
   
