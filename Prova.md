@@ -16,3 +16,5 @@ If (Vegetta777--> IniciaVideo)
   
 If (Auronplay--> IniciaVideo)
   cout<<"HEEEEEEEEEEEY QUE PASA XAVALES, TODO BIEN? TODO CORRECTO? Y YO QUE ME ALEGRO HOMBRE"<<endl;
+
+WOW SUCH NISE!
