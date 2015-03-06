@@ -6,6 +6,6 @@ god dammit Joey!!!
 int main()
 {
   MLG main
-  retun where u at!!!!!!!!!!!!;
+  return where u at!!!!!!!!!!!!;
 };
   
